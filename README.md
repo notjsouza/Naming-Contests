@@ -1,3 +1,11 @@
+# YouTube Demo
+
+---
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RcRUBm-H22k/0.jpg)](https://www.youtube.com/watch?v=RcRUBm-H22k)
+
+---
+
 #### package.json scripts
 
 ```
